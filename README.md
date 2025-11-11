@@ -1,4 +1,4 @@
-# Predicting-TV-Series-Renewal
+# Predicting TV Series Renewal
 
 Project Renewal Predictor: Predicting TV Show Renewals
 
